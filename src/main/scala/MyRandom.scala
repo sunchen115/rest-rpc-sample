@@ -23,7 +23,7 @@ object MyRandom {
 
 }
 
-object  Main extends App{
-  println(MyRandom.getRandInt(10))
-  println(MyRandom.getRandIntBetween(50,60))
-}
+//object  Main extends App{
+//  println(MyRandom.getRandInt(10))
+//  println(MyRandom.getRandIntBetween(50,60))
+//}
